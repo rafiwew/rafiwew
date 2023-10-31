@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to the my space ✨
+
 <h1 align="center">Hi 👋, I'm Muhammad Rafi</h1>
 <h3 align="center">A passionate Android developer from Indonesia</h3>
 
@@ -21,8 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiwew&show_icons=true&locale=en&layout=compact&theme=dark" alt="rafiwew" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiwew&show_icons=true&locale=en&theme=dark" alt="rafiwew" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiwew&theme=dark" alt="rafiwew" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafiwew&theme=dark)](https://git.io/streak-stats)
 
