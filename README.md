@@ -1,7 +1,7 @@
 ### Welcome to the my space ✨
 
-<h1 align="center">Hi 👋, I'm Muhammad Rafi</h1>
-<h3 align="center">A passionate Android developer from Indonesia</h3>
+<h1 align="left">Hi 👋, I'm Muhammad Rafi</h1>
+<h3 align="left">A passionate Android developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Android Development**
 
