@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Graphic Design or Android**
+<!-- - 💬 Ask me about **Graphic Design or Android** -->
 
 - 📫 How to reach me **mochrafi01@gmail.com**
 
