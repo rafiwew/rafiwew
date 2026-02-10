@@ -4,7 +4,7 @@
 
 - 🇲🇨 I'm from Indonesia :D
   
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development** and also **Digital Accessibility (A11y)**
 
 - 📫 How to reach me **mochrafi01@gmail.com**
 
